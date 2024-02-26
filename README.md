@@ -8,7 +8,7 @@ Drag it to your bookmarks bar
 
 Click on it when you want to run the bookmarklet
 
-OR,
+### OR,
 
 Copy the whole thing.
 
