@@ -1,6 +1,6 @@
-### How to use
+# How to use
 
-For the bookmarklets (The ones without a .html file ending)
+For the bookmarklet above
 
 Select all of the code
 
