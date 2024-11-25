@@ -20,7 +20,7 @@ Paste the code.
 
 ### OR,
 
-Copy the code
+Copy the code from Hack.js
 
 Open EdPuzzle
 
@@ -28,6 +28,6 @@ Press Ctr + Shift + I to open Developer tools then press Console
 
 If that doesn't work right click press Inspect at the bottom to open Developer tools then press Console
 
-Then Past the code and press enter
+Then paste the code and press enter
 
 You may need to type something to agree that the code may be a hack and that you agree to bear all responsibility just type it in and press enter and re-enter the code as in the previous step.
