@@ -34,4 +34,4 @@ You may need to type something to agree that the code may be a hack and that you
 
 # Credits:
 
-</a>https://github.com/ading2210/edpuzzle-answers
+https://github.com/ading2210/edpuzzle-answers
