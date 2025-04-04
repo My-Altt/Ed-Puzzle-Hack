@@ -31,3 +31,7 @@ If that doesn't work right click press Inspect at the bottom to open Developer t
 Then paste the code and press enter
 
 You may need to type something to agree that the code may be a hack and that you agree to bear all responsibility just type it in and press enter and re-enter the code as in the previous step.
+
+# Credits:
+
+</a>https://github.com/ading2210/edpuzzle-answers
